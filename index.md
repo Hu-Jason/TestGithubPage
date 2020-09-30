@@ -1,3 +1,5 @@
+![Image](https://t8.baidu.com/it/u=1484500186,1503043093&fm=79&app=86&size=h300&n=0&g=4n&f=jpeg?sec=1602052167&t=e2904a755f20f98a1be97e14bffcc2b0)
+[Link](https://www.baidu.com) 
 ## private policy
 
 You can use the [editor on GitHub](https://github.com/Hu-Jason/TestGithubPage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -55,8 +57,6 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-
-[Link](https://www.baidu.com) and ![Image](https://t8.baidu.com/it/u=1484500186,1503043093&fm=79&app=86&size=h300&n=0&g=4n&f=jpeg?sec=1602052167&t=e2904a755f20f98a1be97e14bffcc2b0)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
