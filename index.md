@@ -1,70 +1,36 @@
-![Image](https://t8.baidu.com/it/u=1484500186,1503043093&fm=79&app=86&size=h300&n=0&g=4n&f=jpeg?sec=1602052167&t=e2904a755f20f98a1be97e14bffcc2b0)
-[Link](https://www.baidu.com) 
 ## private policy
 
-You can use the [editor on GitHub](https://github.com/Hu-Jason/TestGithubPage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-本协议为您与「什么垃圾 APP」(下称本 APP)版权所有者之间所订立的契约，具有合同的法律效力，请您仔细阅读。
+### This agreement is a contract between you and the copyright owner of "Thai Han" (hereinafter referred to as the app). It has the legal effect of the contract. Please read it carefully.
 
-### 正文
+1.The content, effectiveness and modification of this agreement. The content of this agreement includes the text of the agreement and all kinds of rules that have been released or may be released in the future. All rules are an integral part of this Agreement and have the same legal effect as the text of the agreement. If you have any questions about the agreement, you should consult this app. As long as you use the app platform services, this agreement will be binding on you. At that time, you should not claim that this agreement is invalid or request to cancel this Agreement on the ground that you have not read the content of this agreement or have not obtained the answers to your questions from this app. You confirm: the terms of this Agreement are the contract dealing with the rights and obligations of both parties, and are always valid. If there are other mandatory provisions in the law or special agreements between the two parties, the provisions shall prevail. You undertake to accept and abide by this agreement. If you do not agree with this agreement, you should immediately stop the registration program or stop using this AP P platform service. The app has the right to formulate and modify this Agreement and / or various rules from time to time according to the needs, and publicize them on the app platform without further notice to users. The changed agreement and rules will take effect as soon as they are published in app. If you do not agree with the relevant changes, you should immediately stop using the app platform services. If you continue to use the app platform services, it means that you accept the revised agreement and rules.
 
-一、本协议内容、生效、变更。本协议内容包括协议正文及所有本 APP 已经发布的或将来可能发布的各类规则。所有规则为本协议不可分割的组成部分，与协议正文具有同等法律效力。如您对协议有任何疑问，应向本 APP 咨询。只要您使用本 APP 平台服务，则本协议即对您产生约束，届时您不应以未阅读本协议的内容或者未获得本 APP对您问询的解答等理由，主张本协议无效，或要求撤销本协议。您确认：本协议条款是处理双方权利义务的契约，始终有效，法律另有强制性规定或双方另有特别约定的，依其规定。您承诺接受并遵守本协议的约定。如果您不同意本协议的约定，您应立即停止注册程序或停止使用本 AP P平台服务。本 APP 有权根据需要不定期地制订、修改本协议及/或各类规则，并在本 APP 平台公示，不再另行单独通知用户。变更后的协议和规则一经在 APP 公布，立即生效。如您不同意相关变更，应当立即停止使用本 APP 平台服务。您继续使用本 APP 平台服务的，即表明您接受修订后的协议和规则。
+2.All data and charts published on this app platform are for reference only. The user clearly agrees that the risk of using the network service of the app platform will be entirely borne by the user; all consequences arising from the use of the network service of the app platform shall also be borne by the user, and the app platform shall not bear any responsibility to the user.
 
-二、本 APP 平台所刊载的所有资料及图表仅供参考使用。用户明确同意其使用本 APP 平台网络服务所存在的风险将完全由其自己承担；因其使用本 APP 平台网络服务而产生的一切后果也由其自己承担，本 APP 平台对用户不承担任何责任。
+3.When users of this app platform participate in various activities held on the app platform, we will, with your consent and confirmation, require you to provide some personal data in the form of registration form, such as your name, gender, age, date of birth, ID card number, home address, education level, company situation, industry, etc. Without your consent, we will never disclose any of your information to any third party in any way. 
 
-三、本 APP 平台的用户在参加本 APP 平台举办的各种活动时，我们将在您的同意及确认下，通过注册表格等形式要求您提供一些个人资料，如：您的姓名、性别、年龄、出生日期、身份证号、家庭住址、教育程度、公司情况、所属行业等。我们在未经您同意的情况下，绝对不会将您的任何资料以任何方式泄露给任何第三方。 
+4.When the government judicial authorities require the app platform to disclose personal data in accordance with legal procedures, we will provide personal data according to the requirements of law enforcement agencies or for public security purposes. In this case, the app platform shall be exempted from liability for any disclosure.
 
-四、当政府司法机关依照法定程序要求本 APP 平台披露个人资料时，我们将根据执法单位之要求或为公共安全之目的提供个人资料。在此情况下之任何披露，本 APP 平台均得免责。 
+5.The app platform shall be exempted from liability for any personal data leakage, loss, theft or alteration caused by force majeure affecting the normal operation of the network due to hacker attacks, computer virus invasion or attack, temporary shutdown caused by government control, etc.
 
-五、 任何由于黑客攻击、计算机病毒侵入或发作、因政府管制而造成的暂时性关闭等影响网络正常经营的不可抗力而造成的个人资料泄露、丢失、被盗用或被窜改等，本 APP 平台均得免责。 
-
-六、由于与本 APP 平台链接的其它网站所造成之个人资料泄露及由此而导致的任何法律争议和后果，本 APP 平台均得免责。 
+6.The app platform shall be exempted from any legal disputes and consequences arising from the disclosure of personal data caused by other websites linked to this app platform. 
  
-七、本 APP 平台如因系统维护或升级而需暂停服务时，将事先公告。若因线路及非本网站控制范围外的硬件故障或其它不可抗力而导致暂停服务，于暂停服务期间造成的一切不便与损失，本 APP 平台不负任何责任。 
+7.If the system needs to be upgraded due to the announcement. If the service is suspended due to line and hardware fault beyond the control scope of the website or other force majeure, the app platform will not be responsible for any inconvenience and loss caused during the suspension of service. 
  
-八、本 APP 平台使用者因为违反本声明的规定而触犯中华人民共和国法律的，一切后果自己负责，本 APP 平台不承担任何责任。 
+8.Users of this app platform who violate the laws of the people's Republic of China due to violation of the provisions of this declaration shall be responsible for all consequences, and the app platform shall not bear any responsibility. 
  
-九、凡以任何方式登陆本 APP 平台或直接、间接使用本 APP 平台资料者，视为自愿接受本 APP 平台声明的约束。 
+9.Anyone who logs in to the app platform in any way or uses the app platform information directly or indirectly is deemed to voluntarily accept the restriction of the app platform statement.
  
-十、本声明未涉及的问题参见国家有关法律法规，当本声明与国家法律法规冲突时，以国家法律法规为准。 
+10.For issues not covered in this statement, please refer to relevant national laws and regulations. In case of conflict between this statement and national laws and regulations, the national laws and regulations shall prevail.
  
-十一、本 APP 平台不担保网络服务一定能满足用户的要求，也不担保网络服务不会中断，对网络服务的及时性、安全性、准确性也都不作担保。 
+11.The app platform does not guarantee that the network service will meet the user's requirements, nor does it guarantee that the network service will not be interrupted, nor does it guarantee the timeliness, security and accuracy of the network service. 
  
-十二、本 APP 平台不保证为向用户提供便利而设置的外部链接的准确性和完整性，同时，对于该等外部链接指向的不由本 APP 平台实际控制的任何网页或平台上的内容，本 APP 平台不承担任何责任。 
+12.The app platform does not guarantee the accuracy and integrity of external links set up to provide convenience to users. Meanwhile, the app platform does not assume any responsibility for the contents of any webpage or platform that are not actually controlled by the app.
  
-十三、对于因不可抗力或本 APP 平台不能控制的原因造成的网络服务中断或其它缺陷，本 APP 平台不承担任何责任，但将尽力减少因此而给用户造成的损失和影响。 
+13.For the network service interruption or other defects caused by force majeure or reasons beyond the control of the app platform, the app platform will not bear any responsibility, but will try its best to reduce the loss and impact caused to users.
  
-十四、本 APP 平台所有页面的版式、图片版权均为本 APP 平台所有，未经授权，不得用于除本 APP 平台之外的任何站点。 
+14.The layout and image copyright of all pages of this app platform are owned by this app platform. Without authorization, they are not allowed to be used in any site other than the app. 
  
-十五、本 APP 平台之声明以及其修改权、更新权及最终解释权均属本 APP 平台所有。
+15.The declaration of the app platform and its right of modification, update and final interpretation belong to this app.
 
-
-
-
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
+_©2018年 胡金成_
 2. List
-
-**Bold** and _Italic_ and `Code` text
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Hu-Jason/TestGithubPage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
