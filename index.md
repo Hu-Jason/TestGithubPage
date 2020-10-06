@@ -33,4 +33,3 @@
 15.The declaration of the app platform and its right of modification, update and final interpretation belong to this app.
 
 _©2018年 胡金成_
-2. List
