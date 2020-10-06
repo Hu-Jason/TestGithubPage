@@ -1,4 +1,4 @@
-## private policy
+## privacy policy
 
 ### This agreement is a contract between you and the copyright owner of **Thai Han** (hereinafter referred to as the **app**). It has the legal effect of the contract. Please read it carefully.
 
