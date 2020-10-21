@@ -28,7 +28,7 @@ This agreement is a contract between you and the copyright owner of "Thai-Han" (
 
 13.For the network service interruption or other defects caused by force majeure or reasons beyond the control of the app, the app will not bear any responsibility, but will try its best to reduce the loss and impact caused to users.
 
-14.The layout and image copyright of all pages of this app are owned by this app. Without authorization, they are not allowed to be used in any site other than the app.
+14.The layout and image copyright of all pages of this app are owned by this app. Without authorization, they are not allowed to be used in any site other than this app.
 
 15.The declaration of the app and its right of modification, update and final interpretation belong to this app.
 
