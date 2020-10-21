@@ -18,13 +18,13 @@ This agreement is a contract between you and the copyright owner of "Thai-Han" (
 
 8.Users of this app who violate the laws of the people's Republic of China due to violation of the provisions of this declaration shall be responsible for all consequences, and the app shall not bear any responsibility.
 
-9.Anyone who logs in to the app in any way or uses the app information directly or indirectly is deemed to voluntarily accept the restriction of the app statement.
+9.Anyone who uses this app in any way or uses this app information directly or indirectly is deemed to voluntarily accept the restriction of the app statement.
 
 10.For issues not covered in this statement, please refer to relevant national laws and regulations. In case of conflict between this statement and national laws and regulations, the national laws and regulations shall prevail.
 
 11.The app does not guarantee that the network service will meet the user's requirements, nor does it guarantee that the network service will not be interrupted, nor does it guarantee the timeliness, security and accuracy of the network service.
 
-12.The app does not guarantee the accuracy and integrity of external links set up to provide convenience to users. Meanwhile, the app does not assume any responsibility for the contents of any webpage or platform that are not actually controlled by the app.
+12.The app does not guarantee the accuracy and integrity of external links set up to provide convenience to users. Meanwhile, the app does not assume any responsibility for the contents of any webpage or platform that are not actually controlled by this app.
 
 13.For the network service interruption or other defects caused by force majeure or reasons beyond the control of the app, the app will not bear any responsibility, but will try its best to reduce the loss and impact caused to users.
 
